@@ -34,6 +34,13 @@ video {
   }
 }
 
+@media (max-width: 400px) {
+  .main-container {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
 h1 {
     text-align: center;
     margin-bottom: 4px;
